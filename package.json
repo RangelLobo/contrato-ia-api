@@ -1,0 +1,12 @@
+{
+  "name": "contrato-ia-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest"
+  }
+}
